@@ -1,7 +1,8 @@
 
-Won Most Technical Hack at Hack CLT  
+
 
 # BinBuddy
+Won Most Technical Hack at Hack CLT  
 Developed by:
 Vedanth Shenoy,
 Simran "Summer" Malik,
