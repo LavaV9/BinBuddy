@@ -1,3 +1,6 @@
+
+Won Most Technical Hack at Hack CLT  
+
 # BinBuddy
 Developed by:
 Vedanth Shenoy,
@@ -7,6 +10,5 @@ Veer Pothapragada,
 Dev Patel
 
 
-Won Most Technical Hack at Hack CLT  
 
 Category: Sustainability
